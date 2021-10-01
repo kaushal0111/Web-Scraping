@@ -1,0 +1,16 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+twbs,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",153171,74838,JavaScript,https://www.github.com/twbs/bootstrap
+animate-css,animate.css,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.,72338,15905,CSS,https://www.github.com/animate-css/animate.css
+nathansmith,960-Grid-System,The 960 Grid System is an effort to streamline web development workflow.,3761,534,CSS,https://www.github.com/nathansmith/960-Grid-System
+necolas,normalize.css,A modern alternative to CSS resets,45489,10297,CSS,https://www.github.com/necolas/normalize.css
+ionic-team,ionicons,"Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎",15656,1944,TypeScript,https://www.github.com/ionic-team/ionicons
+designmodo,Flat-UI,"Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.",14868,2412,JavaScript,https://www.github.com/designmodo/Flat-UI
+h5bp,html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",51602,11735,JavaScript,https://www.github.com/h5bp/html5-boilerplate
+foundation,foundation-sites,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.,29135,5700,HTML,https://www.github.com/foundation/foundation-sites
+Modernizr,Modernizr,Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.,25046,3029,JavaScript,https://www.github.com/Modernizr/Modernizr
+twbs,ratchet,"Build mobile apps with simple HTML, CSS, and JavaScript components.",14471,1506,CSS,https://www.github.com/twbs/ratchet
+IanLunn,Hover,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available i…",25472,5523,CSS,https://www.github.com/IanLunn/Hover
+connors,photon,The fastest way to build beautiful Electron apps using simple HTML and CSS,9729,574,CSS,https://www.github.com/connors/photon
+basscss,basscss,Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library,5651,317,CSS,https://www.github.com/basscss/basscss
+atlemo,SubtlePatterns,All the patterns,4461,459,HTML,https://www.github.com/atlemo/SubtlePatterns
+mrmrs,colors,Smarter defaults for colors on the web.,8989,541,CSS,https://www.github.com/mrmrs/colors

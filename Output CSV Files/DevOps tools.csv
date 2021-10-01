@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+puppetlabs,puppet,Server automation framework and application,6312,2203,Ruby,https://www.github.com/puppetlabs/puppet
+chef,chef,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",6695,2540,Ruby,https://www.github.com/chef/chef
+ansible,ansible,Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to clo…,49994,21116,Python,https://www.github.com/ansible/ansible
+hashicorp,terraform,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amon…",29192,6952,Go,https://www.github.com/hashicorp/terraform
+saltstack,salt,Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:,11954,5180,Python,https://www.github.com/saltstack/salt
+apache,maven,Apache Maven core,2769,2006,Java,https://www.github.com/apache/maven
+gradle,gradle,"Adaptable, fast automation for all",12410,3620,Groovy,https://www.github.com/gradle/gradle
+hashicorp,vagrant,Vagrant is a tool for building and distributing development environments.,22679,4144,Ruby,https://www.github.com/hashicorp/vagrant
+openstack,openstack,Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.,4076,1508,Python,https://www.github.com/openstack/openstack
+moby,moby,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,61267,17694,Go,https://www.github.com/moby/moby
+capistrano,capistrano,Remote multi-server automation tool,11979,1778,Ruby,https://www.github.com/capistrano/capistrano
+statsd,statsd,Daemon for easy but powerful stats aggregation,16029,1969,JavaScript,https://www.github.com/statsd/statsd
+graphite-project,graphite-web,A highly scalable real-time graphing system,5335,1269,JavaScript,https://www.github.com/graphite-project/graphite-web
+elastic,logstash,"Logstash - transport and process your logs, events, or other data",12403,3214,Ruby,https://www.github.com/elastic/logstash
+prometheus,prometheus,The Prometheus monitoring system and time series database.,38952,6388,Go,https://www.github.com/prometheus/prometheus
+fabric,fabric,"Simple, Pythonic remote execution and deployment.",13026,1844,Python,https://www.github.com/fabric/fabric
+grafana,grafana,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many mo…",44127,8831,TypeScript,https://www.github.com/grafana/grafana
+StackStorm,st2,"StackStorm (aka ""IFTTT for Ops"") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs …",4490,616,Python,https://www.github.com/StackStorm/st2
+openshift,origin,Conformance test suite for OpenShift,8000,4590,Go,https://www.github.com/openshift/origin
+getsentry,sentry,"Sentry is cross-platform application monitoring, with a focus on error reporting.",29114,3245,Python,https://www.github.com/getsentry/sentry

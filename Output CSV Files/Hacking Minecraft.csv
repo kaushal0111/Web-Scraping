@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+docker,dockercraft,Docker + Minecraft = Dockercraft,6425,374,Lua,https://www.github.com/docker/dockercraft
+minefold,hubot-minecraft,A Minecraft hubot adapter,139,14,CoffeeScript,https://www.github.com/minefold/hubot-minecraft
+leereilly,hubot-minecraft-skin,Hubot's very own Minecraft skin,106,10,Not Provided,https://www.github.com/leereilly/hubot-minecraft-skin
+overviewer,Minecraft-Overviewer,Render high-resolution maps of a Minecraft world with a Leaflet powered interface,2794,431,Python,https://www.github.com/overviewer/Minecraft-Overviewer
+cuberite,cuberite,"A lightweight, fast and extensible game server for Minecraft",3884,582,C++,https://www.github.com/cuberite/cuberite
+pmmp,PocketMine-MP,A server software for Minecraft: Bedrock Edition in PHP,2509,1461,PHP,https://www.github.com/pmmp/PocketMine-MP
+msmhq,msm,An init script for managing Minecraft servers,1066,231,Shell,https://www.github.com/msmhq/msm
+essentials,Essentials,Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server,751,1296,Java,https://www.github.com/essentials/Essentials
+VazkiiMods,Botania,A magic themed tech mod for Minecraft based on nature and plant life.,909,380,Java,https://www.github.com/VazkiiMods/Botania
+MightyPirates,OpenComputers,Home of the OpenComputers mod for Minecraft.,1184,357,Scala,https://www.github.com/MightyPirates/OpenComputers
+PrismarineJS,mineflayer,"Create Minecraft bots with a powerful, stable, and high level JavaScript API.",2209,460,JavaScript,https://www.github.com/PrismarineJS/mineflayer
+EngineHub,WorldEdit,🗺️ Minecraft map editor and mod,2147,724,Java,https://www.github.com/EngineHub/WorldEdit
+SpigotMC,BungeeCord,"BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.",1133,972,Java,https://www.github.com/SpigotMC/BungeeCord
+walterhiggins,ScriptCraft,Write Minecraft Plugins in JavaScript.,1657,387,JavaScript,https://www.github.com/walterhiggins/ScriptCraft
+MinecraftForge,MinecraftForge,Modifications to the Minecraft base files to assist in compatibility between mods.,4944,2204,Java,https://www.github.com/MinecraftForge/MinecraftForge
+ddevault,TrueCraft,Minecraft for hipsters,2163,288,C#,https://www.github.com/ddevault/TrueCraft
+MachineMuse,MachineMusePowersuits,"Minecraft mod, take 2",199,96,Java,https://www.github.com/MachineMuse/MachineMusePowersuits
+micdoodle8,Galacticraft,An advanced Space Dimension Mod for Minecraft,511,304,Java,https://www.github.com/micdoodle8/Galacticraft
+Bukkit,Bukkit,The Minecraft Mod API,2131,1077,Java,https://www.github.com/Bukkit/Bukkit
+GlowstoneMC,Glowstone,"A fast, customizable and compatible open source server for Minecraft: Java Edition",1503,251,Java,https://www.github.com/GlowstoneMC/Glowstone

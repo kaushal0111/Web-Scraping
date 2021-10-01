@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+marko-js,marko,"A declarative, HTML-based language that makes building web apps fun",10647,626,JavaScript,https://www.github.com/marko-js/marko
+MithrilJS,mithril.js,A JavaScript Framework for Building Brilliant Applications,12912,931,JavaScript,https://www.github.com/MithrilJS/mithril.js
+angular,angular,The modern web developer’s platform,76736,20119,TypeScript,https://www.github.com/angular/angular
+emberjs,ember.js,Ember.js - A JavaScript framework for creating ambitious web applications,22016,4246,JavaScript,https://www.github.com/emberjs/ember.js
+knockout,knockout,"Knockout makes it easier to create rich, responsive UIs with JavaScript",10079,1568,JavaScript,https://www.github.com/knockout/knockout
+tastejs,todomvc,"Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more",27536,13903,JavaScript,https://www.github.com/tastejs/todomvc
+spine,spine,Lightweight MVC library for building JavaScript applications,3586,447,JavaScript,https://www.github.com/spine/spine
+vuejs,vue,"🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",188775,30314,JavaScript,https://www.github.com/vuejs/vue
+Polymer,polymer,Our original Web Component library.,21692,2027,HTML,https://www.github.com/Polymer/polymer
+facebook,react,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",175507,35440,JavaScript,https://www.github.com/facebook/react
+finom,seemple,Seemple.js framework,826,81,JavaScript,https://www.github.com/finom/seemple
+aurelia,framework,"The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.",11659,686,JavaScript,https://www.github.com/aurelia/framework
+optimizely,nuclear-js,Reactive Flux built with ImmutableJS data structures. Framework agnostic.,2181,158,JavaScript,https://www.github.com/optimizely/nuclear-js
+jashkenas,backbone,"Give your JS App some Backbone with Models, Views, Collections, and Events",27832,5619,JavaScript,https://www.github.com/jashkenas/backbone
+dojo,dojo,Dojo 1 - the Dojo 1 toolkit core library.,1457,535,JavaScript,https://www.github.com/dojo/dojo
+jorgebucaran,hyperapp,The tiny framework for building hypertext applications.,18678,824,JavaScript,https://www.github.com/jorgebucaran/hyperapp
+riot,riot,Simple and elegant component-based UI library,14546,1032,JavaScript,https://www.github.com/riot/riot
+Daemonite,material,Material Design for Bootstrap 4,3168,741,CSS,https://www.github.com/Daemonite/material
+lit,lit-element,"LEGACY REPO. This repository is for maintenance of the legacy LitElement library. The LitElement base class is now part of the Lit library, which is developed in the lit monorepo.",4468,334,TypeScript,https://www.github.com/lit/lit-element
+aurelia,aurelia,"Aurelia 2, a standards-based, front-end framework designed for high-performing, ambitious applications.",1108,117,TypeScript,https://www.github.com/aurelia/aurelia

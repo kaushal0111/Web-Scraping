@@ -1,0 +1,12 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+twbs,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",153171,74838,JavaScript,https://www.github.com/twbs/bootstrap
+jekyll,jekyll,🌐 Jekyll is a blog-aware static site generator in Ruby,43390,9530,Ruby,https://www.github.com/jekyll/jekyll
+github,government.github.com,"Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations",1313,906,HTML,https://www.github.com/github/government.github.com
+electron,electronjs.org,Electron website,1409,691,Handlebars,https://www.github.com/electron/electronjs.org
+square,square.github.io,"A simple, static portal which outlines our open source offerings.",858,232,CSS,https://www.github.com/square/square.github.io
+twitter,opensource-website,A listing of open source efforts at Twitter on GitHub,1696,558,SCSS,https://www.github.com/twitter/opensource-website
+Netflix,netflix.github.com,Not Provided,1079,402,HTML,https://www.github.com/Netflix/netflix.github.com
+Yelp,yelp.github.io,A showcase of projects we've open sourced and open source projects we use,549,105,JavaScript,https://www.github.com/Yelp/yelp.github.io
+facebook,react,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",175507,35440,JavaScript,https://www.github.com/facebook/react
+artsy,artsy.github.io,The Artsy Engineering Open-Source Developers Blog,825,219,SCSS,https://www.github.com/artsy/artsy.github.io
+Metroxe,one-html-page-challenge,Can you create something cool without modern tools?,318,113,HTML,https://www.github.com/Metroxe/one-html-page-challenge

@@ -1,0 +1,10 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+EFForg,action-center-platform,The EFF Action Center Platform,306,62,Ruby,https://www.github.com/EFForg/action-center-platform
+fightforthefuture,battleforthenet,Not Provided,195,44,HTML,https://www.github.com/fightforthefuture/battleforthenet
+fightforthefuture,battleforthenet-widget,Embed this widget on your site and help save net neutrality!,616,124,JavaScript,https://www.github.com/fightforthefuture/battleforthenet-widget
+mariechatfield,call-my-congress,DEPRECATED. Simple app that displays contact information for US Congress representatives by district.,139,12,HTML,https://www.github.com/mariechatfield/call-my-congress
+mozilla,advocacy.mozilla.org,Not Provided,131,35,JavaScript,https://www.github.com/mozilla/advocacy.mozilla.org
+panxzz,NN-blackout,Purposefully slows loading of webpages to simulate what the internet would look like without Net Neutrality,82,5,JavaScript,https://www.github.com/panxzz/NN-blackout
+j2kao,fcc_nn_research,(somewhat) cleaned-up notebooks used in researching public comments for FCC Proceeding 17-108 (Net Neutrality Repeal),128,22,Jupyter Notebook,https://www.github.com/j2kao/fcc_nn_research
+berkmancenter,internet_monitor,"The Internet Monitor is a research project to evaluate, describe, and summarize the means, mechanisms, and extent of Internet content controls and Internet activity around the world.",130,19,HTML,https://www.github.com/berkmancenter/internet_monitor
+ahmia,ahmia-site,Ahmia.fi - Hidden service search engine,139,45,Python,https://www.github.com/ahmia/ahmia-site

@@ -1,0 +1,16 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+ohmyzsh,ohmyzsh,"🙃 A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, e…",133589,22812,Shell,https://www.github.com/ohmyzsh/ohmyzsh
+microsoft,terminal,"The new Windows Terminal and the original Windows console host, all in the same place!",77544,6928,C++,https://www.github.com/microsoft/terminal
+ggreer,the_silver_searcher,"A code-searching tool similar to ack, but faster.",22591,1292,C,https://www.github.com/ggreer/the_silver_searcher
+arc90,git-sweep,A command-line tool that helps you clean up Git branches that have been merged into master.,2200,125,Python,https://www.github.com/arc90/git-sweep
+bhollis,jsonview,A web extension that helps you view JSON documents in the browser.,1090,202,TypeScript,https://www.github.com/bhollis/jsonview
+ShareX,ShareX,"ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of f…",17229,2261,C#,https://www.github.com/ShareX/ShareX
+sindresorhus,quick-look-plugins,List of useful Quick Look plugins for developers,16162,534,Not Provided,https://www.github.com/sindresorhus/quick-look-plugins
+rtyley,bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",7960,446,Scala,https://www.github.com/rtyley/bfg-repo-cleaner
+mhagger,git-imerge,Incremental merge for git,2282,124,Python,https://www.github.com/mhagger/git-imerge
+eddiezane,lunchy,A friendly wrapper for launchctl,2808,124,Ruby,https://www.github.com/eddiezane/lunchy
+awaescher,RepoZ,👨‍💻 A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements,637,65,C#,https://www.github.com/awaescher/RepoZ
+sharkdp,fd,"A simple, fast and user-friendly alternative to 'find'",19082,493,Rust,https://www.github.com/sharkdp/fd
+BurntSushi,ripgrep,ripgrep recursively searches directories for a regex pattern while respecting your gitignore,27357,1216,Rust,https://www.github.com/BurntSushi/ripgrep
+stedolan,jq,Command-line JSON processor,20365,1212,C,https://www.github.com/stedolan/jq
+alacritty,alacritty,"A cross-platform, OpenGL terminal emulator.",34922,1912,Rust,https://www.github.com/alacritty/alacritty

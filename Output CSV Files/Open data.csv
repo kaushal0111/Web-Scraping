@@ -1,0 +1,8 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+GSA,data,Assorted data from the General Services Administration.,1749,268,HTML,https://www.github.com/GSA/data
+unitedstates,congress-legislators,"Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.",1567,458,Python,https://www.github.com/unitedstates/congress-legislators
+Chicago,food-inspections-evaluation,This repository contains the code to generate predictions of critical violations at food establishments in Chicago. It also contains the results of an evaluation of the effectiveness of those predi…,326,129,HTML,https://www.github.com/Chicago/food-inspections-evaluation
+OpenExoplanetCatalogue,open_exoplanet_catalogue,The main data repository for the Open Exoplanet Catalogue,785,199,Python,https://www.github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue
+cernopendata,opendata.cern.ch,Source code for the CERN Open Data portal,460,128,Python,https://www.github.com/cernopendata/opendata.cern.ch
+openaddresses,openaddresses,A repository of global open address data.,2250,836,JavaScript,https://www.github.com/openaddresses/openaddresses
+APIs-guru,openapi-directory,🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format,2554,460,Not Provided,https://www.github.com/APIs-guru/openapi-directory

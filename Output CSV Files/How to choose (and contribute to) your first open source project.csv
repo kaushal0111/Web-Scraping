@@ -1,0 +1,6 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+rust-lang,rust,Empowering everyone to build reliable and efficient software.,59099,8293,Rust,https://www.github.com/rust-lang/rust
+HospitalRun,hospitalrun-frontend,Frontend for HospitalRun,6048,1975,TypeScript,https://www.github.com/HospitalRun/hospitalrun-frontend
+hoodiehq,hoodie,🐶 The Offline First JavaScript Backend,4224,431,JavaScript,https://www.github.com/hoodiehq/hoodie
+Homebrew,brew,🍺 The missing package manager for macOS (or Linux),29285,6686,Ruby,https://www.github.com/Homebrew/brew
+public-apis,public-apis,Not Provided,160707,18188,Python,https://www.github.com/public-apis/public-apis

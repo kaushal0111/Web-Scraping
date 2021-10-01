@@ -1,0 +1,15 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+fivethirtyeight,data,Data and code behind the articles and graphics at FiveThirtyEight,15073,9816,Jupyter Notebook,https://www.github.com/fivethirtyeight/data
+datadesk,notebooks,All of our computational notebooks,350,27,Python,https://www.github.com/datadesk/notebooks
+nytimes,objective-c-style-guide,The Objective-C Style Guide used by The New York Times,5705,1322,Not Provided,https://www.github.com/nytimes/objective-c-style-guide
+newsapps,beeswithmachineguns,A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).,6120,657,Python,https://www.github.com/newsapps/beeswithmachineguns
+voxmedia,meme,Meme generator,1676,410,JavaScript,https://www.github.com/voxmedia/meme
+propublica,guides,ProPublica's News App and Data Style Guides,996,159,Not Provided,https://www.github.com/propublica/guides
+censusreporter,censusreporter,Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.,572,126,HTML,https://www.github.com/censusreporter/censusreporter
+nprapps,app-template,The NPR visuals team's opinionated project template for client-side apps.,1460,209,JavaScript,https://www.github.com/nprapps/app-template
+TimeMagazineLabs,babynames,Fun with the Social Security Administration's baby name data,522,79,JavaScript,https://www.github.com/TimeMagazineLabs/babynames
+guardian,frontend,The Guardian DotCom.,5571,558,JavaScript,https://www.github.com/guardian/frontend
+dukechronicle,chronline,The official repository for the Duke Chronicle website,140,20,Ruby,https://www.github.com/dukechronicle/chronline
+BloombergMedia,whatiscode,Paul Ford’s “What Is Code?”,3496,279,JavaScript,https://www.github.com/BloombergMedia/whatiscode
+chrishutchinson,cardkit,"A simple, powerful and fully configurable image editor for web browsers and servers. Optional UI included.",702,145,JavaScript,https://www.github.com/chrishutchinson/cardkit
+mkiser,WTFJHT,Logging the daily shock and awe in national politics. Read in moderation.,414,203,HTML,https://www.github.com/mkiser/WTFJHT

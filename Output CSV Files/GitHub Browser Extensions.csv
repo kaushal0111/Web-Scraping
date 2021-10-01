@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+ovity,octotree,GitHub on steroids,21552,1828,JavaScript,https://www.github.com/ovity/octotree
+mike-north,chrome-github-boxcutter,"A Google Chrome extension, for enhanced Github package manifests",302,34,JavaScript,https://www.github.com/mike-north/chrome-github-boxcutter
+muan,github-dashboard,[Web extension] Filter events on github.com activity dashboard.,559,45,JavaScript,https://www.github.com/muan/github-dashboard
+muan,github-gmail,[WebExtension] Open GitHub notifications with shortcuts in Gmail.,1043,239,JavaScript,https://www.github.com/muan/github-gmail
+thieman,github-selfies,"Everything is better with selfies. Yes, even pull requests. Trust me.",980,86,JavaScript,https://www.github.com/thieman/github-selfies
+Yatser,prettypullrequests,A chrome extension to make reviewing pull requests in Github a little easier.,243,35,JavaScript,https://www.github.com/Yatser/prettypullrequests
+sanemat,do-not-merge-wip-for-github,Do Not Merge WIP for GitHub,343,47,JavaScript,https://www.github.com/sanemat/do-not-merge-wip-for-github
+jasonlong,isometric-contributions,Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.,3028,153,JavaScript,https://www.github.com/jasonlong/isometric-contributions
+ForbesLindesay,github-real-names,A plugin for Google Chrome that adds a button to toggle showing real names instead of usernames on GitHub,197,32,JavaScript,https://www.github.com/ForbesLindesay/github-real-names
+benbalter,github-mention-highlighter,"A Chrome extension that automatically highlights any time you are mentioned on a GitHub issue or pull request thread by highlighting your username, any team you're a member of, and the border of an…",206,27,TypeScript,https://www.github.com/benbalter/github-mention-highlighter
+sindresorhus,notifier-for-github,Browser extension - Get notified about new GitHub notifications,1373,138,JavaScript,https://www.github.com/sindresorhus/notifier-for-github
+OctoLinker,OctoLinker,"OctoLinker — Links together, what belongs together",4814,302,HTML,https://www.github.com/OctoLinker/OctoLinker
+ProLoser,Github-Omnibox,Github Commands from Google Chrome Omnibox (address bar),282,35,JavaScript,https://www.github.com/ProLoser/Github-Omnibox
+Justineo,github-hovercard,Neat hovercards for GitHub.,1633,101,JavaScript,https://www.github.com/Justineo/github-hovercard
+panzerdp,clipboardy,"Chrome extension for copying posted code to clipboard from stackoverflow.com, github.com & npmjs.com",235,27,JavaScript,https://www.github.com/panzerdp/clipboardy
+zenorocha,codecopy,A browser extension that adds copy to clipboard buttons on every code block,856,88,JavaScript,https://www.github.com/zenorocha/codecopy
+kamranahmedse,githunt,Hunt the most starred projects on any date on GitHub,2139,232,JavaScript,https://www.github.com/kamranahmedse/githunt
+harshjv,github-repo-size,🚀 Chrome extension to display repository size on GitHub,929,113,JavaScript,https://www.github.com/harshjv/github-repo-size
+sindresorhus,refined-github,Browser extension that simplifies the GitHub interface and adds useful features,15550,1158,TypeScript,https://www.github.com/sindresorhus/refined-github
+softvar,enhanced-github,"🚀 Browser extension to display size of each file, download link and copy file contents directly to the clipboard",1370,135,JavaScript,https://www.github.com/softvar/enhanced-github

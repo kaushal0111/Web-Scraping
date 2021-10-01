@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+apache,spark,Apache Spark - A unified analytics engine for large-scale data processing,30955,24573,Scala,https://www.github.com/apache/spark
+apache,hadoop,Apache Hadoop,11987,7426,Java,https://www.github.com/apache/hadoop
+jbhuang0604,awesome-computer-vision,A curated list of awesome computer vision resources,14994,3621,Not Provided,https://www.github.com/jbhuang0604/awesome-computer-vision
+GSA,data,Assorted data from the General Services Administration.,1749,268,HTML,https://www.github.com/GSA/data
+GoogleTrends,data,An index of all open-source data,4134,441,JavaScript,https://www.github.com/GoogleTrends/data
+nationalparkservice,data,An unofficial repository of National Park Service data.,1061,84,JavaScript,https://www.github.com/nationalparkservice/data
+fivethirtyeight,data,Data and code behind the articles and graphics at FiveThirtyEight,15073,9816,Jupyter Notebook,https://www.github.com/fivethirtyeight/data
+beamandrew,medical-data,Not Provided,4973,1081,Not Provided,https://www.github.com/beamandrew/medical-data
+src-d,awesome-machine-learning-on-source-code,Cool links & research papers related to Machine Learning applied to source code (MLonCode),5364,804,Not Provided,https://www.github.com/src-d/awesome-machine-learning-on-source-code
+igrigorik,decisiontree,ID3-based implementation of the ML Decision Tree algorithm,1289,130,Ruby,https://www.github.com/igrigorik/decisiontree
+keon,awesome-nlp,📖 A curated list of resources dedicated to Natural Language Processing (NLP),12400,2254,Not Provided,https://www.github.com/keon/awesome-nlp
+openai,gym,A toolkit for developing and comparing reinforcement learning algorithms.,25351,7254,Python,https://www.github.com/openai/gym
+aikorea,awesome-rl,Reinforcement learning resources curated,7314,1698,Not Provided,https://www.github.com/aikorea/awesome-rl
+umutisik,Eigentechno,Principal Component Analysis on music loops,667,45,Jupyter Notebook,https://www.github.com/umutisik/Eigentechno
+jpmckinney,tf-idf-similarity,Ruby gem to calculate the similarity between texts using tf*idf,621,57,Ruby,https://www.github.com/jpmckinney/tf-idf-similarity
+scikit-learn-contrib,lightning,"Large-scale linear classification, regression and ranking in Python",1479,196,Python,https://www.github.com/scikit-learn-contrib/lightning
+gwding,draw_convnet,Not Provided,2016,440,Python,https://www.github.com/gwding/draw_convnet
+scikit-learn,scikit-learn,scikit-learn: machine learning in Python,47386,22015,Python,https://www.github.com/scikit-learn/scikit-learn
+tensorflow,tensorflow,An Open Source Machine Learning Framework for Everyone,159459,85579,C++,https://www.github.com/tensorflow/tensorflow
+activeloopai,Hub,Dataset format for AI. Easily build and manage datasets for machine and deep learning. Stream data real-time & version-control it. http://activeloop.ai,3548,283,Python,https://www.github.com/activeloopai/Hub

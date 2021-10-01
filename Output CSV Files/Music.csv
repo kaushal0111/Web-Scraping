@@ -1,0 +1,16 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+beetbox,beets,music library manager and MusicBrainz tagger,10420,1655,Python,https://www.github.com/beetbox/beets
+scottschiller,SoundManager2,"A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.",4729,842,JavaScript,https://www.github.com/scottschiller/SoundManager2
+CreateJS,SoundJS,"A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneG…",4093,863,JavaScript,https://www.github.com/CreateJS/SoundJS
+musescore,MuseScore,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",6361,1723,C++,https://www.github.com/musescore/MuseScore
+tomahawk-player,tomahawk,"Tomahawk, the multi-source music player",2757,383,C++,https://www.github.com/tomahawk-player/tomahawk
+cashmusic,platform,"A free and open platform giving all musicians access to tools that let them manage, promote, and sell their music online.",1098,273,PHP,https://www.github.com/cashmusic/platform
+mopidy,mopidy,Mopidy is an extensible music server written in Python,7181,672,Python,https://www.github.com/mopidy/mopidy
+AudioKit,AudioKit,"Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",8697,1344,Swift,https://www.github.com/AudioKit/AudioKit
+Soundnode,soundnode-app,"Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.",4835,630,JavaScript,https://www.github.com/Soundnode/soundnode-app
+gillesdemey,Cumulus,☁️ A SoundCloud player that lives in your menubar.,1325,132,JavaScript,https://www.github.com/gillesdemey/Cumulus
+metabrainz,picard,MusicBrainz Picard audio file tagger,2528,332,Python,https://www.github.com/metabrainz/picard
+overtone,overtone,Collaborative Programmable Music,5220,436,Clojure,https://www.github.com/overtone/overtone
+sonic-pi-net,sonic-pi,Code. Music. Live.,8511,782,C++,https://www.github.com/sonic-pi-net/sonic-pi
+nukeop,nuclear,Streaming music player that finds free music for you,6827,692,TypeScript,https://www.github.com/nukeop/nuclear
+swdotcom,swdc-vscode-musictime,A VS Code extension to discover the most productive music to listen to as you code,402,16,TypeScript,https://www.github.com/swdotcom/swdc-vscode-musictime

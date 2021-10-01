@@ -1,0 +1,21 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+standard,standard,"🌟 JavaScript Style Guide, with linter & automatic code fixer",26134,2113,JavaScript,https://www.github.com/standard/standard
+eslint,eslint,Find and fix problems in your JavaScript code.,19219,3446,JavaScript,https://www.github.com/eslint/eslint
+jshint,jshint,JSHint is a tool that helps to detect errors and potential problems in your JavaScript code,8637,1745,JavaScript,https://www.github.com/jshint/jshint
+clutchski,coffeelint,Lint your CoffeeScript.,1097,179,CoffeeScript,https://www.github.com/clutchski/coffeelint
+csscomb,csscomb.js,CSS coding style formatter,3118,493,JavaScript,https://www.github.com/csscomb/csscomb.js
+sds,scss-lint,"Configurable tool for writing clean, consistent SCSS",3529,494,Ruby,https://www.github.com/sds/scss-lint
+htmlhint,HTMLHint,⚙️ The static code analysis tool you need for your HTML,2690,346,JavaScript,https://www.github.com/htmlhint/HTMLHint
+validator,validator,Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG,1140,237,Java,https://www.github.com/validator/validator
+CSSLint,csslint,Automated linting of Cascading Stylesheets,4626,525,JavaScript,https://www.github.com/CSSLint/csslint
+PyCQA,pycodestyle,Simple Python style checker in one Python file,4404,614,Python,https://www.github.com/PyCQA/pycodestyle
+PyCQA,flake8,"flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",1502,160,Python,https://www.github.com/PyCQA/flake8
+psf,black,The uncompromising Python code formatter,22526,1457,Python,https://www.github.com/psf/black
+checkstyle,checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly co…",6261,8008,Java,https://www.github.com/checkstyle/checkstyle
+rubocop,rubocop,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",11494,2773,Ruby,https://www.github.com/rubocop/rubocop
+oclint,oclint,"A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C",3373,430,C++,https://www.github.com/oclint/oclint
+dominikh,go-tools,Staticcheck - The advanced Go linter,4159,266,Go,https://www.github.com/dominikh/go-tools
+ndmitchell,hlint,Haskell source code suggestions,1220,159,Haskell,https://www.github.com/ndmitchell/hlint
+coala,coala,"coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.",3244,1351,Python,https://www.github.com/coala/coala
+pre-commit,pre-commit,A framework for managing and maintaining multi-language pre-commit hooks.,6581,492,Python,https://www.github.com/pre-commit/pre-commit
+innogames,igcommit,Git pre-receive hook to check commits and code style,155,22,Python,https://www.github.com/innogames/igcommit

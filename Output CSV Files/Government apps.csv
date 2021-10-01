@@ -1,0 +1,20 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+18F,development-guide,A set of guidelines and best practices for an awesome software engineering team,815,109,HTML,https://www.github.com/18F/development-guide
+cfpb,open-source-checklist,check internal repos against open source checklist requirements,272,25,JavaScript,https://www.github.com/cfpb/open-source-checklist
+alphagov,whitehall,Publishes government content on GOV.UK,676,189,Ruby,https://www.github.com/alphagov/whitehall
+nasa,openmct,A web based mission control framework.,9958,1011,JavaScript,https://www.github.com/nasa/openmct
+codeforamerica,adopt-a-hydrant,"A web application that allows citizens to ""adopt"" civic infrastructure, such as fire hydrants that need to be shoveled out after it snows.",569,239,Ruby,https://www.github.com/codeforamerica/adopt-a-hydrant
+18F,ads-bpa,A guide for the Agile Delivery Services BPA,129,16,Ruby,https://www.github.com/18F/ads-bpa
+project-open-data,project-open-data.github.io,Open Data Policy — Managing Information as an Asset,1096,595,HTML,https://www.github.com/project-open-data/project-open-data.github.io
+opengovfoundation,madison,"Madison is a platform for lawmakers to share legislation with their citizens, allowing the community to add comments and suggest improvements.",521,111,PHP,https://www.github.com/opengovfoundation/madison
+GSA,data.gov,Data.gov source code and issue tracker,1821,458,JavaScript,https://www.github.com/GSA/data.gov
+ngageoint,geoq,Django web application to collect geospatial features and manage feature collection among groups of users,532,137,JavaScript,https://www.github.com/ngageoint/geoq
+wet-boew,wet-boew,"Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source …",1364,641,Handlebars,https://www.github.com/wet-boew/wet-boew
+CityOfPhiladelphia,flu-shot-spec,Proposed Data Specification for Flu Shot Locations,112,30,Ruby,https://www.github.com/CityOfPhiladelphia/flu-shot-spec
+nysenate,OpenLegislation,OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time. It is used internally to serve up legislative dat…,312,95,Java,https://www.github.com/nysenate/OpenLegislation
+openlexington,gethelplex,"Substance use treatment locator for Lexington, KY",87,22,JavaScript,https://www.github.com/openlexington/gethelplex
+uscensusbureau,citysdk,"Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)",766,181,Clojure,https://www.github.com/uscensusbureau/citysdk
+NREL,api-umbrella,Open source API management platform,1714,315,Ruby,https://www.github.com/NREL/api-umbrella
+usds,playbook,The Digital Services Playbook,1208,341,CSS,https://www.github.com/usds/playbook
+republique-et-canton-de-geneve,chvote-1-0,"Electronic vote system, version 1.",654,66,Java,https://www.github.com/republique-et-canton-de-geneve/chvote-1-0
+gchq,CyberChef,Not Provided,13004,1710,JavaScript,https://www.github.com/gchq/CyberChef

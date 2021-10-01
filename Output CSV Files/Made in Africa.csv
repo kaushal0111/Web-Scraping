@@ -1,0 +1,17 @@
+username,repo_name,repo_desc,stars,forks,programming language,repo_url
+acekyd,made-in-nigeria,It is rumored that Nigerians only know how to consume tools and not create them. Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.,563,299,TypeScript,https://www.github.com/acekyd/made-in-nigeria
+frontlinesms,frontlinesms2,FrontlineSMS is desktop/cloud based software created to lower barriers to positive social change using mobile technology,188,59,Groovy,https://www.github.com/frontlinesms/frontlinesms2
+ushahidi,SMSSync,SMS gateway for Android powered phones,957,474,Java,https://www.github.com/ushahidi/SMSSync
+praekeltfoundation,vumi,"Messaging engine for the delivery of SMS, Star Menu and chat messages to diverse audiences in emerging markets and beyond.",384,131,Python,https://www.github.com/praekeltfoundation/vumi
+rapidpro,rapidpro,RapidPro allows organizations to visually build scalable interactive messaging applications.,730,345,JavaScript,https://www.github.com/rapidpro/rapidpro
+pluspeople,pesaPi,"PesaPI is an API for mobile money systems across Africa. Using PesaPI you can save considerable time and effort when integrating mobile money systems into your application, making it easy for your …",338,251,PHP,https://www.github.com/pluspeople/pesaPi
+praekeltfoundation,junebug,A system for managing text messaging transports with via RESTful HTTP interface.,73,21,Python,https://www.github.com/praekeltfoundation/junebug
+chisimba,chisimba,Chisimba is the product of a collaboration of the 13 African universities involved in the African Virtual Open Initiatives and Resources (AVOIR) project. Its main purpose is to foster capacity buil…,111,29,JavaScript,https://www.github.com/chisimba/chisimba
+OpenInstitute,OpenDuka,"Open Duka is a project designed by the Open Institute that will provide a freely accessible database of information on Kenyan entities. This information will provide citizens, journalists, and civi…",118,43,PHP,https://www.github.com/OpenInstitute/OpenDuka
+CodeForAfrica,GotToVote,GotToVote is a toolkit of simple web and SMS services that help citizens get to the ballot box informed and ready to vote. Kenya version accessible at https://kenya.gottovote.cc,158,70,JavaScript,https://www.github.com/CodeForAfrica/GotToVote
+universalcore,elastic-git,"Store data in Git, find it in Elasticsearch.",117,11,Python,https://www.github.com/universalcore/elastic-git
+nyaruka,smartmin,Django Smartmin - An admin-like utility for users,175,32,Python,https://www.github.com/nyaruka/smartmin
+gernest,utron,A lightweight MVC framework for Go(Golang),2204,157,Go,https://www.github.com/gernest/utron
+ushahidi,platform,Ushahidi Platform API version 3+,597,388,PHP,https://www.github.com/ushahidi/platform
+Yorubaname,yorubaname-website,Source code for YorubaName dictionary,99,53,Java,https://www.github.com/Yorubaname/yorubaname-website
+codedivoire,made-in-ci,Repertoire du code Made in CI,21,16,Not Provided,https://www.github.com/codedivoire/made-in-ci
